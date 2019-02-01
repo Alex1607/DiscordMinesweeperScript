@@ -4,3 +4,5 @@ class Cell {
         this.minesNearby = 0;
     }
 }
+
+module.exports = Cell;
