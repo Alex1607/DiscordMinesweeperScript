@@ -9,4 +9,4 @@ You will need *NodeJS* [Link](https://nodejs.org/en/) and the three files in thi
 
 After you done setting up nodejs and / or changed the variables to your needs you can generate the field using `node run.js`
 
-The output can then directly pasted into discord.
+The output can then be directly pasted into discord.
